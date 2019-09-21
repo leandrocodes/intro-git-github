@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("oi turma")
+    printf("oi turma\n");
     return 0;
 }
